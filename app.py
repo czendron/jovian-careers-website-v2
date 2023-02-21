@@ -24,7 +24,7 @@ JOBS = [
     'id': 4,
     'title': 'Product Manager',
     'location': 'Remote',
-    'salary': 'USD 105,000' 
+    'salary': 'USD 131,000' 
   }
 ]
 
